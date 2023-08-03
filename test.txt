@@ -1,3 +1,5 @@
 This is sample test file for git trigger testing
 and do testing
 aaaa
+
+Sample testing as auto trugger from Jenkins
